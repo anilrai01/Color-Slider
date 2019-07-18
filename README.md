@@ -1,3 +1,6 @@
 # Color-Slider
 Shift to Dark mode on toggle
-<img src="src/white.png"><img src="src/dark.png">
+### Light Theme
+<img src="src/white.png">
+### Dark Theme
+<img src="src/dark.png">
